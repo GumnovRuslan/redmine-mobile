@@ -2,6 +2,7 @@ const webpack = require("@nativescript/webpack");
 
 module.exports = (env) => {
 	webpack.init(env);
+	webpack.mergeWebpack({ resolve: {conditionNames:['svelte','require','node'] }})
 
 	// Learn how to customize:
 	// https://docs.nativescript.org/webpack
