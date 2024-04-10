@@ -7,12 +7,13 @@
     "@nativescript/core": "~8.5.0",
     "@nativescript/theme": "~3.0.2",
     "buffer": "^6.0.3",
+    "nativescript-popup-with-position": "^1.0.3",
     "svelte-native": "~1.0.9"
   },
   "devDependencies": {
     "@nativescript/android": "8.5.2",
     "@nativescript/ios": "^8.6.4",
-    "@nativescript/preview-cli": "1.0.12",
+    "@nativescript/preview-cli": "1.0.13",
     "@nativescript/stackblitz": "0.0.8",
     "@nativescript/tailwind": "^2.0.1",
     "@nativescript/types": "~8.6.1",
